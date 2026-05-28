@@ -11,18 +11,6 @@ Para permitir acesso de outras maquinas dentro da rede cria uma copia do arquivo
 
 ---
 
-## Como gerar o arquivo de estoque (dados.csv)
-
-Como não há acesso direto ao banco de dados, o estoque é lido a partir do arquivo dados.csv. Para gerar esse arquivo:
-
-1. Acesse a tela **2253 - Processo**
-2. Preencha os campos **Coleção** e **Estoque**
-3. Clique em **Consultar**
-4. Com o resultado na tela, clique com o **botão direito** sobre ele
-5. Escolha **Exportar para .csv**
-6. Salve o arquivo como **dados.csv** dentro da mesma pasta do server.js
-
-Após salvar o arquivo, reinicie o server para que o estoque seja atualizado.
 
 ## Como gerar o arquivo codigos.xlsx
 
