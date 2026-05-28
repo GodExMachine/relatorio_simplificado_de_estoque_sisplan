@@ -4,6 +4,7 @@ dados/estoque.json
 dados/consolidado.json
 dados/data.json
 dados/dados.csv
+desktop.ini
 
 # Node
 node_modules/
