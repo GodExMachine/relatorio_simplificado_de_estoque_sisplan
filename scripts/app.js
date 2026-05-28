@@ -5,7 +5,7 @@ let estoque = [];
 let exCodigos = new Set();
 
 async function carregarEx() {
-    const response = await fetch("/scripts/EX.json");
+    const response = await fetch("/dados/EX.json");
     const dados = await response.json();
 
     exCodigos = new Set(dados.map(item => item.codigo.trim()));

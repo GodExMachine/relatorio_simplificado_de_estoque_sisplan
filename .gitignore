@@ -1,1 +1,9 @@
-dados.csv
+# Dados gerados automaticamente
+dados/codigos.json
+dados/estoque.json
+dados/consolidado.json
+dados/data.json
+dados/dados.csv
+
+# Node
+node_modules/

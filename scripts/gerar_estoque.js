@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const arquivoCsv = path.join(__dirname, "..", "dados.csv");
+const arquivoCsv = path.join(__dirname, "..", "dados", "dados.csv");
 const pastaDados = path.join(__dirname, "..", "dados");
 const arquivoSaida = path.join(pastaDados, "estoque.json");
 
@@ -25,8 +25,18 @@ function limpa(v) {
     return (v || "").replace(/"/g, "").trim();
 }
 
+if (!fs.existsSync(arquivoCsv)) {
+    console.log("Aviso: dados.csv nao encontrado. Estoque nao gerado.");
+    process.exit(0);
+}
+
 const data = fs.readFileSync(arquivoCsv, "utf8");
 const linhas = data.split(/\r?\n/).filter(l => l.trim());
+
+if (linhas.length === 0) {
+    console.log("Aviso: dados.csv esta vazio. Estoque nao gerado.");
+    process.exit(0);
+}
 
 const header = linhas[0].split(";").map(limpa);
 

@@ -1,22 +1,18 @@
 const fs = require("fs");
 const path = require("path");
 
-
 const pastaDados = path.join(__dirname, "..", "dados");
 
-const codigos = JSON.parse(
-    fs.readFileSync(
-        path.join(pastaDados, "codigos.json"),
-        "utf8"
-    )
-);
+const arquivoCodigos = path.join(pastaDados, "codigos.json");
+const arquivoEstoque = path.join(pastaDados, "estoque.json");
 
-const estoque = JSON.parse(
-    fs.readFileSync(
-        path.join(pastaDados, "estoque.json"),
-        "utf8"
-    )
-);
+if (!fs.existsSync(arquivoCodigos) || !fs.existsSync(arquivoEstoque)) {
+    console.log("Aviso: codigos.json ou estoque.json nao encontrado. Consolidado nao gerado.");
+    process.exit(0);
+}
+
+const codigos = JSON.parse(fs.readFileSync(arquivoCodigos, "utf8"));
+const estoque = JSON.parse(fs.readFileSync(arquivoEstoque, "utf8"));
 
 
 const estoqueMap = new Map();

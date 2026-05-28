@@ -3,7 +3,8 @@ const fs = require("fs");
 const path = require("path");
 
 
-const arquivoExcel = path.join(__dirname, "..", "CODIGOS.xlsx");
+const arquivoExcel = path.join(__dirname, "..", "dados", "CODIGOS.xlsx");
+
 const pastaDados = path.join(__dirname, "..", "dados");
 const arquivoSaida = path.join(pastaDados, "codigos.json");
 

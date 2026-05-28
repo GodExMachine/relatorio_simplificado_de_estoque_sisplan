@@ -87,9 +87,14 @@ app.get("/estoque", (req, res) => {
 
 app.get("/data", (req, res) => {
     try {
-        const filePath = path.join(__dirname, "data.json");
-        const dados = fs.readFileSync(filePath, "utf8");
+        const filePath = path.join(__dirname, "dados", "data.json");
 
+        if (!fs.existsSync(filePath)) {
+            res.send("sem data");
+            return;
+        }
+
+        const dados = fs.readFileSync(filePath, "utf8");
         res.setHeader("Content-Type", "application/json");
         res.send(dados);
     } catch (erro) {
@@ -97,7 +102,8 @@ app.get("/data", (req, res) => {
     }
 });
 
-const uploadPath = path.join(__dirname);
+const uploadPath = path.join(__dirname, "dados");
+
 
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
@@ -112,7 +118,8 @@ const upload = multer({ storage });
 
 app.post("/upload-csv", upload.single("file"), (req, res) => {
     try {
-        const dataPath = path.join(__dirname, "data.json");
+        const dataPath = path.join(__dirname, "dados", "data.json");
+
 
         const agora = new Date();
 
