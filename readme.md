@@ -7,7 +7,7 @@ Ou finalize pelo gerenciador de tarefa
 
 Comando para iniciar o server manualmente -> node server.js
 
-Para permitir acesso de outras maquinas dentro da rede cria uma copia do arquivo ESTOQUE POR ESTAMPA.html e altere a CONST IP para a ip do servidor
+Para permitir acesso de outras maquinas dentro da rede crie uma copia do arquivo ESTOQUE POR ESTAMPA.html e altere a CONST IP para a ip do servidor
 
 ---
 
