@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatório de Estoque</title>
+
+    <link rel="stylesheet" href="scripts/style.css">
+</head>
+
+
+<body>
+
+<h1 id="tituloRelatorio">PLACEHOLDER</h1>
+<div class="top-bar">
+    <div class="filtros">
+        <input type="text" id="filtroCodigo" placeholder="Código">
+        <input type="text" id="filtroTecido" placeholder="Tecido (Cor)">
+        <input type="text" id="filtroMalha" placeholder="Malha">
+
+        <button id="btnFiltrar">Filtrar</button>
+        <button onclick="gerarPDF()">Gerar PDF</button>
+
+        <label class="switch">
+            <input type="checkbox" id="toggleLinhasExtras" />
+            <span class="slider"></span>
+        </label>
+
+        <label for="toggleLinhasExtras" class="switch-label">Linhas extras</label>
+    </div>
+<div class="upload-container">
+    <div id="dropZone" class="drop-zone">
+        <span>Enviar arquivo</span>
+        <input type="file" id="inputCsv" accept=".csv" hidden />
+    </div>
+
+<button onclick="window.location.href='/tutorial'">
+    Tutorial
+</button>
+
+</div>
+
+</div>
+
+
+    <div class="tabela-container">
+        <table id="tabela">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Descrição</th>
+                    <th>Tecido Cima</th>
+                    <th>Malha Cima</th>
+                    <th>Tecido Baixo</th>
+                    <th>Malha Baixo</th>
+                    <th>P</th>
+                    <th>M</th>
+                    <th>G</th>
+                    <th>GG</th>
+                    <th>EX</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+
+            <tbody id="tbody"></tbody>
+        </table>
+
+<div class="totais">
+    <strong>Total Geral:</strong> 
+    <strong></strong> <span id="totalP">0</span> 
+    <strong></strong> <span id="totalM">0</span> 
+    <strong></strong> <span id="totalG">0</span> 
+    <strong></strong> <span id="totalGG">0</span> 
+    <strong></strong> <span id="totalEX">0</span> 
+    <span id="totalGeral">0</span>
+</div>
+    </div>
+
+
+    <div id="previewFoto">
+    <img id="previewImagem" src="" alt="">
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
+
+    <script src="scripts/app.js"></script>
+    <script src="./scripts/gerar_pdf.js"></script>
+
+</body>
+
+<footer class="footer">
+  Created by <strong>Alex Jungklaus</strong> ·
+  <a href="https://github.com/GodExMachine" target="_blank">
+    GitHub
+  </a>
+</footer>
+</html>

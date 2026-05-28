@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f6fa;
+        }
+
+        header {
+            padding: 20px 20px 10px;
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .voltar-container {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .btn-voltar {
+            padding: 10px 18px;
+            border: none;
+            border-radius: 8px;
+            background: #3498db;
+            color: white;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .btn-voltar:hover {
+            background: #2980b9;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 20px 40px;
+            box-sizing: border-box;
+        }
+
+        .card {
+            background: white;
+            border-radius: 14px;
+            padding: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.12);
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 10px;
+            display: block;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .card img:hover {
+            transform: scale(1.01);
+        }
+
+        .card span {
+            display: block;
+            margin-top: 12px;
+            text-align: center;
+            font-size: 15px;
+            color: #444;
+        }
+
+        .overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.85);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 999;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        .overlay img {
+            max-width: 95%;
+            max-height: 95%;
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(255,255,255,0.2);
+        }
+
+        .overlay.active {
+            display: flex;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    Passo a passo de como gerar o arquivo .csv
+</header>
+
+<div class="voltar-container">
+    <button class="btn-voltar" onclick="window.location.href='/'">
+        ← Voltar
+    </button>
+</div>
+
+<div class="container">
+
+    <div class="card">
+        <img src="/tutorial/tutorial1.png" onclick="abrirImagem(this.src)">
+        <span>Passo 1</span>
+    </div>
+
+    <div class="card">
+        <img src="/tutorial/tutorial2.png" onclick="abrirImagem(this.src)">
+        <span>Passo 2</span>
+    </div>
+
+    <div class="card">
+        <img src="/tutorial/tutorial3.png" onclick="abrirImagem(this.src)">
+        <span>Passo 3</span>
+    </div>
+
+</div>
+
+<div class="overlay" id="overlay" onclick="fecharImagem()">
+    <img id="imagemGrande">
+</div>
+
+<script>
+    const overlay = document.getElementById("overlay");
+    const imagemGrande = document.getElementById("imagemGrande");
+
+    function abrirImagem(src) {
+        imagemGrande.src = src;
+        overlay.classList.add("active");
+    }
+
+    function fecharImagem() {
+        overlay.classList.remove("active");
+    }
+</script>
+
+</body>
+</html>

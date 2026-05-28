@@ -1,0 +1,1997 @@
+[
+    {
+        "codigo": "01.010.0104",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA ALÇA",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.010.0105",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA ALÇA",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.010.0106",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA ALÇA",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.010.0107",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA ALÇA",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.010.0108",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA ALÇA",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.020.0090",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.020.0091",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.020.0092",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.020.0093",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.020.0094",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.040.0095",
+        "linha": "AVULSO",
+        "descricao": "CAMISÃO MC",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.040.0096",
+        "linha": "AVULSO",
+        "descricao": "CAMISÃO MC",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.040.0097",
+        "linha": "AVULSO",
+        "descricao": "CAMISÃO MC",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.040.0098",
+        "linha": "AVULSO",
+        "descricao": "CAMISÃO MC",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.040.0099",
+        "linha": "AVULSO",
+        "descricao": "CAMISÃO MC",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.051.0036",
+        "linha": "CIMA",
+        "descricao": "ALÇA COTTON - SHORT C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "COTTON"
+    },
+    {
+        "codigo": "01.051.0036",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/RECORTE C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.051.0037",
+        "linha": "CIMA",
+        "descricao": "ALÇA COTTON - SHORT C/BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "COTTON"
+    },
+    {
+        "codigo": "01.051.0037",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/RECORTE C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.051.0038",
+        "linha": "CIMA",
+        "descricao": "ALÇA COTTON - SHORT C/BOLSO",
+        "tecido": "CORAÇÃO DA PAZ",
+        "malha": "COTTON"
+    },
+    {
+        "codigo": "01.051.0038",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/RECORTE C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.051.0039",
+        "linha": "CIMA",
+        "descricao": "ALÇA COTTON - SHORT C/BOLSO",
+        "tecido": "ROSA CAMPO",
+        "malha": "COTTON"
+    },
+    {
+        "codigo": "01.051.0039",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/RECORTE C/BOLSO",
+        "tecido": "CABANAS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.051.0040",
+        "linha": "CIMA",
+        "descricao": "ALÇA COTTON - SHORT C/BOLSO",
+        "tecido": "MARFIM",
+        "malha": "COTTON"
+    },
+    {
+        "codigo": "01.051.0040",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/RECORTE C/BOLSO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0293",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0293",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0294",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0294",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0295",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0295",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0296",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "CORAÇÃO DA PAZ",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0296",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0297",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0297",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0298",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0298",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0299",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0299",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0300",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0300",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0301",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0301",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0302",
+        "linha": "CIMA",
+        "descricao": "REGATA - SHORT BOLSO",
+        "tecido": "AZUL TRATOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0302",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0304",
+        "linha": "CIMA",
+        "descricao": "REGATA C/BERMUDA",
+        "tecido": "CORAÇÃO DA PAZ",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0304",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0305",
+        "linha": "CIMA",
+        "descricao": "REGATA C/BERMUDA",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0305",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA C/BOLSO",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0306",
+        "linha": "CIMA",
+        "descricao": "REGATA - CORSARIO BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.070.0306",
+        "linha": "BAIXO",
+        "descricao": "CORSARIO C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0247",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0247",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0248",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0248",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0249",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0249",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0250",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0250",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0251",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "CORAÇÃO DA PAZ",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0251",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0252",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0252",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0253",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0253",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0254",
+        "linha": "CIMA",
+        "descricao": "MC - SHORT C/BOLSO",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0254",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0256",
+        "linha": "CIMA",
+        "descricao": "MC - BERMUDA C/BOLSO",
+        "tecido": "CORAÇÃO DA PAZ",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0256",
+        "linha": "BAIXO",
+        "descricao": "BERMIDA C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0257",
+        "linha": "CIMA",
+        "descricao": "MC - BERMUDA C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0257",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA C/BOLSO",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0258",
+        "linha": "CIMA",
+        "descricao": "MC - CORSARIO BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0258",
+        "linha": "BAIXO",
+        "descricao": "CORSARIO C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0259",
+        "linha": "CIMA",
+        "descricao": "MC - CALÇA C/BOLSO",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0259",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0260",
+        "linha": "CIMA",
+        "descricao": "MC - CALÇA C/BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.090.0260",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.120.0087",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA ABERTA",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.120.0088",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA ABERTA",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.120.0089",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA ABERTA",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.120.0090",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA ABERTA",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.120.0091",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA ABERTA",
+        "tecido": "LISTRA CORAÇAO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.188.0007",
+        "linha": "CIMA",
+        "descricao": "PJ AMERICANO MC SHORT",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.188.0007",
+        "linha": "BAIXO",
+        "descricao": "SHORT AMERICANO C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.188.0008",
+        "linha": "CIMA",
+        "descricao": "AMERICANO MC CALÇA",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.188.0008",
+        "linha": "BAIXO",
+        "descricao": "CALÇA AMERICANA C/BOLO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.189.0009",
+        "linha": "CIMA",
+        "descricao": "MC ABERTO - SHORT BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.189.0009",
+        "linha": "BAIXO",
+        "descricao": "SHORT BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.190.0042",
+        "linha": "CIMA",
+        "descricao": "MC ABERTO - BERMUDA BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.190.0042",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.190.0043",
+        "linha": "CIMA",
+        "descricao": "MC ABERTO - CORSARIO BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.190.0043",
+        "linha": "BAIXO",
+        "descricao": "CORSARIO C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.190.0044",
+        "linha": "CIMA",
+        "descricao": "MC ABERTO - CORSARIO BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.190.0044",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.222.0026",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA ABERTA C/BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.222.0027",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA REGATA ABERTA C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.241.0032",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA MC ABERTA C/BOLSO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.241.0033",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA MC ABERTA C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.242.0003",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA MC AMERICANA ABERTA C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0052",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0052",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0053",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0053",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0054",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0054",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0055",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "VERMELHO MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0055",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0056",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "CORAÇÃO DA PAZ",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.500.0056",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.504.0010",
+        "linha": "CIMA",
+        "descricao": "ML CAVA RETA - CALÇA C/BOLSO/ELAST",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.504.0010",
+        "linha": "BAIXO",
+        "descricao": "CALÇA  C/BOLSO C/ELASTICO",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.504.0011",
+        "linha": "CIMA",
+        "descricao": "ML CAVA RETA - CALÇA C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.504.0011",
+        "linha": "BAIXO",
+        "descricao": "CALÇA  C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.504.0012",
+        "linha": "CIMA",
+        "descricao": "ML CAVA RETA - CALÇA C/BOLSO",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.504.0012",
+        "linha": "BAIXO",
+        "descricao": "CALÇA  C/BOLSO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.530.0040",
+        "linha": "CIMA",
+        "descricao": "ML ABERTA - CALÇA C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.530.0040",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "LISTRA CORAÇÃO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.531.0003",
+        "linha": "CIMA",
+        "descricao": "ML ABERTO AMERICANO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.531.0003",
+        "linha": "BAIXO",
+        "descricao": "CALÇA AMERICANA C/BOLO",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.590.0044",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA FECHADA",
+        "tecido": "MAÇA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.590.0045",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA FECHADA",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.590.0046",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA FECHADA",
+        "tecido": "PINGENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.590.0047",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA FECHADA",
+        "tecido": "BEIJA FLOR",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.590.0048",
+        "linha": "AVULSO",
+        "descricao": "PANTUFA FECHADA",
+        "tecido": "LISTRA CORAÇAO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "01.604.0010",
+        "linha": "CIMA",
+        "descricao": "ML CAVA RETA - CALÇA C/BOLSO",
+        "tecido": "AMORES",
+        "malha": "MOLECOTTON"
+    },
+    {
+        "codigo": "01.604.0010",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "AMORES",
+        "malha": "MOLECOTTON"
+    },
+    {
+        "codigo": "01.804.0001",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "01.804.0001",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "01.804.0002",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "01.804.0002",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "01.804.0003",
+        "linha": "CIMA",
+        "descricao": "ML - CALÇA C/BOLSO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "01.804.0003",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "02.070.0003",
+        "linha": "CIMA",
+        "descricao": "REGATA SHORT C/BOLSO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.070.0003",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0112",
+        "linha": "CIMA",
+        "descricao": "MC TRICOLINE SHORT C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0112",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO TRICOLIE",
+        "tecido": "TRICOLINE",
+        "malha": "TRICOLINE"
+    },
+    {
+        "codigo": "02.090.0113",
+        "linha": "CIMA",
+        "descricao": "MC SHORT C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0113",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "TRICOLINE",
+        "malha": "TRICOLINE"
+    },
+    {
+        "codigo": "02.090.0114",
+        "linha": "CIMA",
+        "descricao": "MC SHORT C/BOLSO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0114",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0115",
+        "linha": "CIMA",
+        "descricao": "MC SHORT C/BOLSO",
+        "tecido": "AZUL ESCURO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0115",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0116",
+        "linha": "CIMA",
+        "descricao": "MC SHORT C/BOLSO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.090.0116",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.095.0020",
+        "linha": "CIMA",
+        "descricao": "MC  RAGLAN SHORT C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.095.0020",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.095.0020",
+        "linha": "MANGA",
+        "descricao": "MANGA DO RAGLAN",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.095.0021",
+        "linha": "CIMA",
+        "descricao": "MC  RAGLAN CALÇA C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.095.0021",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.095.0021",
+        "linha": "MANGA",
+        "descricao": "MANGA RAGLAN",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.190.0003",
+        "linha": "CIMA",
+        "descricao": "MC ABERTO  BOLSO C/SHORT C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.190.0003",
+        "linha": "BAIXO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.190.0004",
+        "linha": "CIMA",
+        "descricao": "MC ABERTO BOLSO  C/CALÇA C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.190.0004",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.214.0047",
+        "linha": "AVULSO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.214.0048",
+        "linha": "AVULSO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.214.0049",
+        "linha": "AVULSO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.214.0050",
+        "linha": "AVULSO",
+        "descricao": "SHORT C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.500.0058",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/BOLSO",
+        "tecido": "AZUL ESCURO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.500.0058",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.500.0059",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/BOLSO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.500.0059",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.501.0005",
+        "linha": "CIMA",
+        "descricao": "ML RAGLAN CALÇA C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.501.0005",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.501.0005",
+        "linha": "MANGA",
+        "descricao": "MANGA RAGLAN",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.530.0004",
+        "linha": "CIMA",
+        "descricao": "ML ABERTO  BOLSO C/CALÇA  C/BOLSO",
+        "tecido": "CINZA NUVEM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "02.530.0004",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/BOLSO",
+        "tecido": "CINZA CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.010.0028",
+        "linha": "AVULSO",
+        "descricao": "CAMISOLA ALÇA",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.040.0022",
+        "linha": "AVULSO",
+        "descricao": "CAMISÃO MC",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.070.0082",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.070.0082",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.070.0083",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.070.0083",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.070.0084",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.070.0084",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0132",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0132",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0133",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0133",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0134",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0134",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0135",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0135",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0136",
+        "linha": "CIMA",
+        "descricao": "MC C/CALÇA ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.090.0136",
+        "linha": "BAIXO",
+        "descricao": "CALÇA ELASTICO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0044",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA ELASTICO",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0044",
+        "linha": "BAIXO",
+        "descricao": "CALÇA COM ELASTICO",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0045",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0045",
+        "linha": "BAIXO",
+        "descricao": "CALÇA COM ELASTICO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0046",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA ELASTICO",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0046",
+        "linha": "BAIXO",
+        "descricao": "CALÇA COM ELASTICO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0047",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.500.0047",
+        "linha": "BAIXO",
+        "descricao": "CALÇA ELASTICO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "03.600.0008",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA ELASTICO",
+        "tecido": "AMORES",
+        "malha": "MOLECOTTON"
+    },
+    {
+        "codigo": "03.600.0008",
+        "linha": "BAIXO",
+        "descricao": "CALÇA ELASTICO",
+        "tecido": "AMORES",
+        "malha": "MOLECOTTON"
+    },
+    {
+        "codigo": "03.804.0001",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "03.804.0001",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLECCE"
+    },
+    {
+        "codigo": "04.071.0016",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.071.0016",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.071.0017",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.071.0017",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0071",
+        "linha": "CIMA",
+        "descricao": "MC C/BERMUDA",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0071",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0072",
+        "linha": "CIMA",
+        "descricao": "MC C/BERMUDA",
+        "tecido": "AZUL ESCURO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0072",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0073",
+        "linha": "CIMA",
+        "descricao": "MC C/BERMUDA",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0073",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0074",
+        "linha": "CIMA",
+        "descricao": "MC C/BERMUDA",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0074",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0075",
+        "linha": "CIMA",
+        "descricao": "MC CALÇA C/ELASTICO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.090.0075",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0034",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "AZUL ESCURO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0034",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0035",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0035",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0036",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0036",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CAMPNG",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0037",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.500.0037",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "04.804.0001",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLEECE"
+    },
+    {
+        "codigo": "04.804.0001",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLEECE"
+    },
+    {
+        "codigo": "05.070.0062",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.070.0062",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.070.0063",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.070.0063",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.070.0064",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.070.0064",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0134",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0134",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0135",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0135",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0136",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0136",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0137",
+        "linha": "CIMA",
+        "descricao": "MC C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0137",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0138",
+        "linha": "CIMA",
+        "descricao": "MC C/CALÇA",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.090.0138",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0064",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA ELASTICO",
+        "tecido": "ROSE CAMPO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0064",
+        "linha": "BAIXO",
+        "descricao": "CALÇA ELASTICO",
+        "tecido": "PRESENTE",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0065",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "MARFIM",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0065",
+        "linha": "BAIXO",
+        "descricao": "CALÇÃ C/ELASTICO",
+        "tecido": "URSINHOS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0066",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0066",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0067",
+        "linha": "CIMA",
+        "descricao": "ML C/CALÇA C/ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.500.0067",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CABANA",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "05.600.0009",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "AMORES",
+        "malha": "MOLECOTTON"
+    },
+    {
+        "codigo": "05.600.0009",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "AMORES",
+        "malha": "MOLECOTTON"
+    },
+    {
+        "codigo": "05.804.0001",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLEECE"
+    },
+    {
+        "codigo": "05.804.0001",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLEECE"
+    },
+    {
+        "codigo": "06.071.0019",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.071.0019",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.071.0020",
+        "linha": "CIMA",
+        "descricao": "REGATA C/SHORT",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.071.0020",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0077",
+        "linha": "CIMA",
+        "descricao": "MC BERMUDA",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0077",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0078",
+        "linha": "CIMA",
+        "descricao": "MC BERMUDA",
+        "tecido": "AZUL ESCURO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0078",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0079",
+        "linha": "CIMA",
+        "descricao": "MC BERMUDA",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0079",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0080",
+        "linha": "CIMA",
+        "descricao": "MC BERMUDA",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0080",
+        "linha": "BAIXO",
+        "descricao": "BERMUDA",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0081",
+        "linha": "CIMA",
+        "descricao": "MC CALÇA C/ELASTICO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.090.0081",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0059",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "AZUL ESCURO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0059",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "XADREZ VERMELHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0060",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "AZUL RIO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0060",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0061",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0061",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0062",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "BRANCO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.500.0062",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "XADREZ AZUL",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "06.804.0001",
+        "linha": "CIMA",
+        "descricao": "ML CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLEECE"
+    },
+    {
+        "codigo": "06.804.0001",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/ELASTICO",
+        "tecido": "SORTIDO",
+        "malha": "FLEECE"
+    },
+    {
+        "codigo": "07.091.0029",
+        "linha": "CIMA",
+        "descricao": "BODY MC C/SHORT",
+        "tecido": "CABANAS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "07.091.0029",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "CABANAS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "07.501.0030",
+        "linha": "CIMA",
+        "descricao": "BODY ML C/CALÇA",
+        "tecido": "CABANAS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "07.501.0030",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/FRISO",
+        "tecido": "CABANAS",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "07.501.0031",
+        "linha": "CIMA",
+        "descricao": "BODY ML C/CALÇA",
+        "tecido": "URSINHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "07.501.0031",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/FRISO",
+        "tecido": "URSINHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "07.700.0017",
+        "linha": "AVULSO",
+        "descricao": "MANTA",
+        "tecido": "URSINHO",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "08.091.0029",
+        "linha": "CIMA",
+        "descricao": "BODY MC C/SHORT",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "08.091.0029",
+        "linha": "BAIXO",
+        "descricao": "SHORT",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "08.501.0029",
+        "linha": "CIMA",
+        "descricao": "BODY ML C/CALÇA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "08.501.0029",
+        "linha": "BAIXO",
+        "descricao": "CALÇA C/FRISO",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    },
+    {
+        "codigo": "08.800.0017",
+        "linha": "AVULSO",
+        "descricao": "MANTA",
+        "tecido": "CAMPING",
+        "malha": "ALGODÃO"
+    }
+]
